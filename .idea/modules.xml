@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Documents/personal/projects/Federated-Learning-and-Split-Learning-with-raspberry-pi-master/.idea/Federated-Learning-and-Split-Learning-with-raspberry-pi-master.iml" filepath="$USER_HOME$/Documents/personal/projects/Federated-Learning-and-Split-Learning-with-raspberry-pi-master/.idea/Federated-Learning-and-Split-Learning-with-raspberry-pi-master.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/personal/projects/Msc-Reseach-Project/.idea/Federated-Learning-and-Split-Learning-with-raspberry-pi-master.iml" filepath="$USER_HOME$/Documents/personal/projects/Msc-Reseach-Project/.idea/Federated-Learning-and-Split-Learning-with-raspberry-pi-master.iml" />
       <module fileurl="file://$USER_HOME$/Documents/personal/research/ecg_research_server.ipynb/.idea/ecg_research_server.ipynb.iml" filepath="$USER_HOME$/Documents/personal/research/ecg_research_server.ipynb/.idea/ecg_research_server.ipynb.iml" />
       <module fileurl="file://$USER_HOME$/Documents/personal/research/.idea/research.iml" filepath="$USER_HOME$/Documents/personal/research/.idea/research.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/personal/research_project/.idea/research_project.iml" filepath="$USER_HOME$/Documents/personal/research_project/.idea/research_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
     </modules>
   </component>
